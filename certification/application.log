@@ -1,0 +1,145 @@
+2019-11-08 12:15:17,314  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:32:36,331  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:34:06,199  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:48:38,684  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:53:39,946  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:55:09,997  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:56:32,401  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:56:34,440  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 12:58:22,119  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 12:58:23,607  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:08:20,259  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:08:21,667  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:09:28,961  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:13:47,767  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:16:10,487  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:17:08,326  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:18:09,345  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:18:11,848  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:19:40,658  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:19:47,068  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:24:09,164  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:24:12,088  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:35:51,834  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:35:53,622  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:35:56,440  INFO [main] LogReport:38 - The price is in $
+2019-11-08 13:37:01,079  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:37:03,105  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:37:53,846  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:37:55,420  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:39:42,223  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:39:48,181  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:41:09,600  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:41:11,018  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:42:29,054  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:42:30,877  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 13:46:14,011  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 13:46:15,984  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 14:04:02,293  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 14:05:42,069  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 14:08:23,981  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 14:08:27,789  INFO [main] LogReport:38 - Assertion for product description passed
+2019-11-08 14:08:27,841  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 14:23:44,309  INFO [main] LogReport:38 - Assertion for home page landing passed
+2019-11-08 14:23:49,949  INFO [main] LogReport:38 - Assertion for product description passed
+2019-11-08 14:23:50,021  INFO [main] LogReport:38 - product available and added to cart
+2019-11-08 18:17:22,882  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:38:56,509  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:40:22,615  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:42:31,762  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:43:53,573  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:48:21,168  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:51:05,968  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:54:30,125  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 18:59:08,237  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:00:18,126  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:04:12,830  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:08:46,348  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:10:21,543  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:14:01,046  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:40:39,617  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:42:25,595  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:43:08,938  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:46:36,123  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:48:49,960  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:49:26,493  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:50:15,583  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:51:33,566  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:51:34,637  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 19:52:34,076  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:52:39,689  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 19:52:39,754  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 19:53:50,958  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:54:47,287  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 19:54:53,506  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 19:54:53,564  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 19:54:53,622  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 19:54:53,660  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:01:15,346  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:01:21,668  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:01:21,777  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:01:21,855  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:01:21,902  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:15:25,288  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:16:10,773  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:17:21,638  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:18:17,640  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:19:05,436  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:19:56,554  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:20:07,121  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:20:07,215  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:20:07,292  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:20:07,329  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:20:55,484  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:21:07,134  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:21:07,208  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:21:07,279  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:21:07,316  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:22:05,145  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:22:11,591  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:22:11,642  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:22:11,704  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:22:11,751  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:24:25,754  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:24:31,958  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:24:32,010  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:24:32,061  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:24:32,093  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:26:11,854  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:26:17,811  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:26:17,871  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:26:17,922  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:26:17,961  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:28:59,095  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:29:09,704  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:29:09,770  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:29:09,895  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:29:09,929  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:30:48,938  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:30:59,472  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:30:59,537  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:30:59,591  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:30:59,638  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:38:22,582  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:38:29,158  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:39:19,766  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:39:31,191  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:39:31,249  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:39:31,302  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:39:31,341  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:40:47,655  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 20:40:53,746  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 20:40:53,802  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 20:40:53,861  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 20:40:53,894  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 20:40:54,238  INFO [main] LogReport:38 - Assertion passed for updated price
+2019-11-08 21:09:19,016  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 21:10:17,558  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 21:11:25,941  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 21:12:44,617  INFO [main] LogReport:38 - Assertion for mensmarchandise done
+2019-11-08 21:12:50,905  INFO [main] LogReport:38 - assertion passed product name
+2019-11-08 21:12:50,976  INFO [main] LogReport:38 - Assertion passed for shirt size
+2019-11-08 21:12:51,055  INFO [main] LogReport:38 - Assertion passed for nameInCart
+2019-11-08 21:12:51,094  INFO [main] LogReport:38 - Assertion passed for shirtColour
+2019-11-08 21:12:51,499  INFO [main] LogReport:38 - Assertion passed for updated price
+2019-11-08 21:12:51,517  INFO [main] LogReport:38 - Assertion passed for updated price
